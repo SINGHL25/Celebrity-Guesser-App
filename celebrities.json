@@ -1,0 +1,7 @@
+[
+    {"name": "Taylor Swift", "traits": ["female", "singer", "american", "alive", "under-40"]},
+    {"name": "Shah Rukh Khan", "traits": ["male", "actor", "indian", "alive", "over-50"]},
+    {"name": "Cristiano Ronaldo", "traits": ["male", "sportsperson", "portuguese", "alive", "under-40"]},
+    {"name": "Albert Einstein", "traits": ["male", "scientist", "german", "dead", "over-50"]},
+    {"name": "Oprah Winfrey", "traits": ["female", "host", "american", "alive", "over-50"]}
+]
